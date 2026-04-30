@@ -92,6 +92,9 @@ Model selection criterion: `Score = 0.6 × AUC + 0.4 × Accuracy`
 
 ##  Results
 
+### Trained Models : 
+https://drive.google.com/file/d/1uHJ3si8D9xCK9okH_eALBJi9TrsIovXC/view?usp=sharing
+
 ### Individual Model Performance (External Test Set, Optimal Threshold)
 
 | Metric | DenseNet121 | EfficientNetB0 | ResNet50 |
