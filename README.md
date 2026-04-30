@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This repository contains the complete source code, preprocessing pipeline, and model training scripts for automated binary classification of oral lesion images into **cancerous** and **non-cancerous** categories using deep convolutional neural networks (CNNs).
 
@@ -16,7 +16,7 @@ Three CNN architectures — **ResNet50**, **DenseNet121**, and **EfficientNetB0*
 
 ---
 
-## 👥 Team Details
+##  Team Details
 
 | Name | Roll Number | Email |
 |------|-------------|-------|
@@ -27,7 +27,7 @@ Three CNN architectures — **ResNet50**, **DenseNet121**, and **EfficientNetB0*
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Project Title (Roll No of Team Members)/
@@ -51,7 +51,7 @@ Project Title (Roll No of Team Members)/
 
 ---
 
-## 🧠 Methodology Summary
+##  Methodology Summary
 
 ### Dataset
 | Partition | Cancer | Non-Cancer | Total |
@@ -90,7 +90,7 @@ Model selection criterion: `Score = 0.6 × AUC + 0.4 × Accuracy`
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Individual Model Performance (External Test Set, Optimal Threshold)
 
@@ -118,7 +118,7 @@ Model selection criterion: `Score = 0.6 × AUC + 0.4 × Accuracy`
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Library / Tool |
 |-----------|---------------|
@@ -133,7 +133,7 @@ Model selection criterion: `Score = 0.6 × AUC + 0.4 × Accuracy`
 
 ---
 
-## ⚙️ Setup & Usage
+##  Setup & Usage
 
 ### Prerequisites
 
@@ -173,7 +173,7 @@ All notebooks are designed to run on **Google Colab** with GPU acceleration. Ope
 
 ---
 
-## 📖 Citation
+##  Citation
 
 If you use this code or research in your work, please cite:
 
@@ -184,13 +184,13 @@ Department of Computer Science and Engineering, Chitkara University, Rajpura, In
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 The authors gratefully acknowledge the contributors of the publicly available oral cancer datasets hosted on the Kaggle platform — [Zaid](https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset) and [Shivam](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images) — which made this research possible.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For queries related to this project, reach out via:
 - **Email:** riya736.be22@chitkara.edu.in
